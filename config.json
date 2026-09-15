@@ -77,6 +77,25 @@
           "type": "txt"
         }
       ]
+    },
+    {
+      "id": "consuming-external-apis",
+      "title": "Consuming External APIs with Python",
+      "description": "Consumindo APIs públicas com requests: parâmetros de consulta, tratamento de erros HTTP e parse de JSON aninhado",
+      "path": "assignments/consuming-external-apis",
+      "dueDate": "2026-09-22",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        },
+        {
+          "name": "Dependencies",
+          "file": "requirements.txt",
+          "type": "txt"
+        }
+      ]
     }
   ]
 }
